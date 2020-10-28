@@ -1,4 +1,3 @@
-# Bounties
 ## An Ethereum Classic Labs Hackathon, Powered by Gitcoin
 # Chasing the GHOST: Network Security Hackathon
 
