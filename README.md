@@ -1,0 +1,2 @@
+# Bounties
+Ethereum Classic Bounties
